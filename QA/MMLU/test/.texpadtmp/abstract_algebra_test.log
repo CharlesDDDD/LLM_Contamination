@@ -1,0 +1,706 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.6)  25 AUG 2023 21:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**abstract_algebra_test.tex
+(./abstract_algebra_test.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count189
+\l__color_backend_stack_int=\count190
+\g__color_backend_stack_int=\count191
+\g__graphics_track_int=\count192
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count193
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
+) (/Users/chunyuan/Documents/study/Research/Data2Instruction/talky/talky/raw_data/MMLU/test/.texpadtmp/abstract_algebra_test.aux)
+\openout1 = `abstract_algebra_test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+./abstract_algebra_test.tex:7: Missing $ inserted.
+<inserted text> 
+                $
+l.7 ...,4,2,6,B\\"Let p = (1, 2, 5, 4)(2, 3) in S_
+                                                  5 . Find the index of <p> ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...bgroup of G and a belongs to G then \vertaH
+                                                  \vert = \vertHa\vert. Stat...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ... a belongs to G then \vertaH\vert = \vertHa
+                                                  \vert. Statement 2 \vert I...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...t 1 \vert For finite groups G and H, \vertG
+                                                   + H\vert = \vertG\vert\ve...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...te groups G and H, \vertG + H\vert = \vertG
+                                                  \vert\vertH\vert. (G + H i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ... and H, \vertG + H\vert = \vertG\vert\vertH
+                                                  \vert. (G + H is the inter...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...ases for the same vector space, then \vertB
+                                                  _1\vert = \vertB_2\vert.",...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...e vector space, then \vertB_1\vert = \vertB
+                                                  _2\vert.","True, True","Fa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \textbackslash invalid in math mode on input line 7.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...ermutation that is an n-cycle, then \vertab
+                                                  \vert = lcm(m,n).","True, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \textbackslash invalid in math mode on input line 7.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ... K are subgroups of a group G, then \vertHK
+                                                  \vert = \vertH\vert\vertK\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...ps of a group G, then \vertHK\vert = \vertH
+                                                  \vert\vertK\vert/\vertH in...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...up G, then \vertHK\vert = \vertH\vert\vertK
+                                                  \vert/\vertH intersection ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...vertHK\vert = \vertH\vert\vertK\vert/\vertH
+                                                   intersection K\vert. Stat...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ... If a belongs to a finite group then \verta
+                                                  \vert divides \vertG\vert....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:7: Undefined control sequence.
+l.7 ...inite group then \verta\vert divides \vertG
+                                                  \vert.,"True, True","False...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./abstract_algebra_test.tex:8: Missing $ inserted.
+<inserted text> 
+                $
+l.8 \end{document}
+                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no − ("2212) in font cmr10!
+Missing character: There is no − ("2212) in font cmr10!
+Missing character: There is no − ("2212) in font cmr10!
+Missing character: There is no − ("2212) in font cmr10!
+Missing character: There is no − ("2212) in font cmr10!
+Missing character: There is no − ("2212) in font cmr10!
+Missing character: There is no − ("2212) in font cmr10!
+Missing character: There is no − ("2212) in font cmr10!
+Missing character: There is no − ("2212) in font cmr10!
+
+Overfull \hbox (72.05235pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Findallzerosintheindicatedfinitefieldofthegivenpolynomialwithcoefficientsinthatfield:x[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (686.32732pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Afactorgroupofanon \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 Abeliangroupisnon \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 Abelian:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfKisanormalsubgroupofHandHisanormalsubgroupofG; thenKisanormalsubgroupofG:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (5.08421pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Findtheproductofthegivenpolynomialsinthegivenpolynomialring:f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = 4\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (753.27826pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ifagrouphasanelementoforder\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 itmusthaveatleast\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 elementsoforder\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ifagrouphasmorethan\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 elementsoforder\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 ; itmusthaveatleast\OT1/cmr/m/n/10 16\OML/cmm/m/it/10 elementsoforder\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (760.66785pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 EveryhomomorphicimageofagroupGisisomorphictoafactorgroupofG:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ThehomomorphicimagesofagroupGarethesame\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 uptoisomorphism\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 asthefactorgroupsofG:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (382.27345pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Aringhomomorphismisonetooneifandonlyifthekernelis\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 QisanidealinR:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (6.08055pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 FindthedegreeforthegivenfieldextensionQ\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 sqrt\OT1/cmr/m/n/10 (2) + \OML/cmm/m/it/10 sqrt\OT1/cmr/m/n/10 (3))\OML/cmm/m/it/10 overQ:; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (72.05235pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Findallzerosintheindicatedfinitefieldofthegivenpolynomialwithcoefficientsinthatfield:x[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (610.21681pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfHisasubgroupofGandabelongstoGthen\OMS/cmsy/m/n/10 j \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfHisasubgroupofGandaandbbelongtoG; thenaHandHbareidenticalordisjoint:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (157.9697pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 IfA \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 thenrelationS \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2)\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 is\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; symmetriconly; anti \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 symmetriconly; bothsymmetricandanti \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (107.45215pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Thepolynomialx[] \OT1/cmr/m/n/10 + 2\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + 2\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + 1\OML/cmm/m/it/10 canbefactoredintolinearfactorsinZ[]\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 :Findthisfactorization:; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 2)(\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (376.37082pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 RisasplittingfieldofsomepolynomialoverQ:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thereisafieldwith\OT1/cmr/m/n/10 60\OML/cmm/m/it/10 elements:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (64.34172pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Computetheproductinthegivenring:\OT1/cmr/m/n/10 (2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3)(3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 5)\OML/cmm/m/it/10 inZ[]xZ[]\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "(1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)"\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "(3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)"\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "(1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6)"\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "(3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6)"\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (549.20488pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Thesetofallrealnumbersundertheusualmultiplicationoperationisnotagroupsince; multiplicationisnotabinaryoperation; multiplicationisnotassociative; identityelementdoesnotexist; zerohasnoinverse; D[] 
+ []
+
+
+Overfull \hbox (99.83722pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everygroupoforderp[]wherepisprimeisAbelian:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ForafixedprimepaSylowp \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (334.60269pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 subgroupofagroupGisanormalsubgroupofGifandonlyifitistheonlySylowp \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 subgroupofG:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (234.77614pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ForfinitegroupsGandH; \OT1/cmr/m/n/10 +\OML/cmm/m/it/10 H\OMS/cmsy/m/n/10 j \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 jj\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 G \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 Histheinternaldirectproduct:\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfrdividesmandsdividesnthenZ[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (104.47668pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Z[]hasasubgroupisomorphictoZ[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 Z[]:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (12.50357pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 AnysetoftwovectorsinR[]islinearlyindependent:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfV \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (256.65242pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 span\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; :::; vk\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 and\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; :::; vk\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 arelinearlyindependent; thendim\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 k:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (385.71991pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Thesetofallnthrootsofunityundermultiplicationofcomplexnumbersforma=an; semigroupwithidentity; commutativesemigroupswithidentity; group; abeliangroup; D[] 
+ []
+
+
+Overfull \hbox (478.5156pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everymaximalidealisaprimeideal:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfIisamaximalidealofacommutativeringR; thenR=Iisfield:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (531.34166pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 LetGdenotedthesetofallnxnnon \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 singularmatriceswithrationalnumbersasentries:ThenundermultiplicationGisa=an; subgroup; finiteabeliangroup; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 infinite; nonabeliangroup\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ininite; abelian\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (515.42216pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everygroupoforder\OT1/cmr/m/n/10 42\OML/cmm/m/it/10 hasanormalsubgroupoforder\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everygroupoforder\OT1/cmr/m/n/10 42\OML/cmm/m/it/10 hasanormalsubgroupoforder\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (102.18887pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 DeterminewhetherthepolynomialinZ\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 satisfiesanEisensteincriterionforirreducibilityoverQ:\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (739.43803pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Theimageofagroupof\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 elementsunderahomomorphismmayhave\OT1/cmr/m/n/10 12\OML/cmm/m/it/10 elements:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thereisahomomorphismofsomegroupof\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 elementsintosomegroupof\OT1/cmr/m/n/10 12\OML/cmm/m/it/10 elements:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (485.89981pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thehomomorphicimageofacyclicgroupiscyclic:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ThehomomorphicimageofanAbeliangroupisAbelian:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (230.0632pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfHisasubgroupofagroupGandabelongstoG; thenaH \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 Ha:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfHisnormalofGandabelongstoG; thenah \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (5.07646pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 haforallhinH:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (178.31575pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 If\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 G; :\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 isagroupsuchthat\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ab\OT1/cmr/m/n/10 )[]1 = \OML/cmm/m/it/10 a[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 b[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; foralla; binG; thenGisa=an\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; commutativesemigroup; abeliangroup; non \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (423.5167pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Inafinitedimensionalvectorspaceeverylinearlyindependentsetofvectorsiscontainedinabasis:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfB[]andB[]arebasesforthesamevectorspace; then[]\OMS/cmsy/m/n/10 j \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (52.86008pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Somegroup\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 G; \OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 isknowntobeabelian:ThenwhichoneofthefollowingisTRUEforG\OT1/cmr/m/n/10 ?"\OML/cmm/m/it/10 ; g \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (77.37366pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 g[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 foreveryginG; g \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 g[]foreveryginG; \OT1/cmr/m/n/10 "(\OML/cmm/m/it/10 goh\OT1/cmr/m/n/10 )[] = \OML/cmm/m/it/10 g[]oh[]foreveryg; hinG\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; Gisoffiniteorder; C[] 
+ []
+
+
+Overfull \hbox (3.84058pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfT \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 V\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 > Wisalineartransformationanddim\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 ) \OML/cmm/m/it/10 < dim\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 W\OT1/cmr/m/n/10 ) \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (139.00363pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Vislinear:IfTisinjective; thenitisabijection:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (12.7472pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 FindthedegreeforthegivenfieldextensionQ\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 sqrt\OT1/cmr/m/n/10 (2)\OML/cmm/m/it/10 ; sqrt\OT1/cmr/m/n/10 (3))\OML/cmm/m/it/10 overQ:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (97.18886pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 DeterminewhetherthepolynomialinZ\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 satisfiesanEisensteincriterionforirreducibilityoverQ:x[] \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (288.29936pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everypermutationisacycle:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everycycleisapermutation:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (823.34946pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Someabeliangroupoforder\OT1/cmr/m/n/10 45\OML/cmm/m/it/10 hasasubgroupoforder\OT1/cmr/m/n/10 10\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 AsubgroupHofagroupGisanormalsubgroupifandonlyifthenumberofleftcosetsofHisequaltothenumberofrightcosetsofH:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (521.89502pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyintegraldomainwithcharacteristic\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 isinfinite:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyintegraldomainwithprimecharacteristicisfinite:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (49.61388pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 LetAandBbesets; f \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 A\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 > Bandg \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 B\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 > Abefunctionssuchthatforalla\OMS/cmsy/m/n/10 n\OML/cmm/m/it/10 inA; g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 )) =
+ []
+
+
+Overfull \hbox (441.42024pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 a:Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thefunctionfmustnecessarilybeinjective:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thefunctionfmustnecessarilybesurjective:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (199.85728pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ForanytwogroupsGandG[]; thereexistsahomomorphismofGintoG[]:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyhomomorphismisaone \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (642.1643pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ahomomorphismmayhaveanemptykernel:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Itisnotpossibletohaveanontrivialhomomorphismofsomefinitegroupintosomeinfinitegroup:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (277.894pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfaRisanintegraldomain; thenR\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 isanintegraldomain:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfRisaringandf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 andg\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 areinR\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 ; thendeg\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )) =
+ []
+
+
+Overfull \hbox (18.61417pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 degf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10 degg\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (15.52364pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 FindthemaximumpossibleorderforsomeelementofZ[]xZ[]\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 xZ[]\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :; \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 120\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 240\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 24\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (58.5145pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everysolvablegroupisofprime \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 powerorder:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everygroupofprime \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (32.97253pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 powerorderissolvable:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (59.13919pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 InthegroupG \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 8)\OML/cmm/m/it/10 undermultiplicationmodulo\OT1/cmr/m/n/10 10\OML/cmm/m/it/10 ; theidentityelementis\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 8\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (94.66797pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfG; HandKaregroupsoforder\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; atleasttwoofthemareisomorphic:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfZ[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (229.33238pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Z[]isisomorphictoasubgroupZ[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 Z[]; thenrdividesmandsdividesn:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (80.6741pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyfreeabeliangroupistorsionfree:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyfinitelygeneratedtorsion \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (106.31194pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 freeabeliangroupisafreeabeliangroup:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (264.80565pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 isirreducibleoverZ:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 isirreducibleoverQ:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (458.67798pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everygroupoforder\OT1/cmr/m/n/10 159\OML/cmm/m/it/10 iscyclic:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everygroupoforder\OT1/cmr/m/n/10 102\OML/cmm/m/it/10 hasanontrivialpropernormalsubgroup:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (674.6831pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfHandKaresubgroupsofGandoneofHorKisnormalsubgroupofG; thenHKisasubgroupofG:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Allgroupsoforderp[]wherepisprimeareAbelian:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (443.3801pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Theunityofasubringmustbethesameastheunityofthering:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyfieldisanintegraldomain:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (920.88957pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thesetof\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 matriceswithintegerentriesandnonzerodeterminantisagroupundermatrixmultiplication:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thesetof\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 matriceswithintegerentriesanddeterminant\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 isagroupundermatrixmultiplication:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (614.50812pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyquotientringofeverycommutativeringisagainacommutativering:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 AnidealNinaringRwithunity\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 isallofRifandonlyif\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 inN:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (148.42671pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 IfA \OT1/cmr/m/n/10 = (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4)\OML/cmm/m/it/10 :Let [] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3)\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2)\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 :Then []is\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; notanti \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 symmetric; transitive; reflexive; symmetric; B[] 
+ []
+
+
+Overfull \hbox (317.4902pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyfieldisalsoaring:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyringhasamultiplicativeidentity:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (657.82135pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfRisaringandf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 andg\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 areinR\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 ; thendeg\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )) = \OML/cmm/m/it/10 maximum\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 degf\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; degg\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfFisafieldtheneveryidealofF\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 isprincipal:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (70.49002pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 AsubsetHofagroup\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 G; \OMS/cmsy/m/n/10 ^^C\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 isagroupif\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 a; binH \OT1/cmr/m/n/10 =\OML/cmm/m/it/10 > a \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 binH\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; ainH \OT1/cmr/m/n/10 =\OML/cmm/m/it/10 > a[]\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 inH; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 a; binH \OT1/cmr/m/n/10 =\OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (65.97984pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Thepolynomialx[] \OT1/cmr/m/n/10 + 4\OML/cmm/m/it/10 canbefactoredintolinearfactorsinZ[]\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 :Findthisfactorization:; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 2)(\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (816.38446pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thereexistsafreeabeliangroupofeverypositiveintegerrank:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 AfinitelygeneratedabeliangroupisfreeabelianifitsBettinumberequalsthenumberofelementsinsomegeneratingset:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (3.07845pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 FindthedegreeforthegivenfieldextensionQ\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 sqrt\OT1/cmr/m/n/10 (2) \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 sqrt\OT1/cmr/m/n/10 (3))\OML/cmm/m/it/10 overQ:; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (28.2466pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 UsingFermat[]stheorem; findtheremainderof\OT1/cmr/m/n/10 3[]7\OML/cmm/m/it/10 whenitisdividedby\OT1/cmr/m/n/10 23\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (628.099pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ifaandbareelementsofagroupandaisnotequaltob; thena[]isnotequaltob[]:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thesetofrotationsinadihedralgroupformacyclicsubgroup:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (50.13745pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 S[]isnon \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 Abelianforalln >\OT1/cmr/m/n/10 = 3\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ifaisapermutationthatisanm \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (211.61554pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 cycleandbisapermutationthatisann \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 cycle; then\OMS/cmsy/m/n/10 j \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 lcm\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 m; n\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (257.06203pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Forn > \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; theset\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; :::; n \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 isagroupundermultiplicationmodulon:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thereisanintegerxsuchthat\OT1/cmr/m/n/10 63\OML/cmm/m/it/10 xmod\OT1/cmr/m/n/10 100 =
+ []
+
+
+Overfull \hbox (824.86078pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfKisanonzerosubgroupofafinitelygeneratedfreeabeliangroup; thenKisfreeabelian:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfKisanonzerosubgroupofafinitelygeneratedfreeabeliangroup; thenG=Kisfreeabelian:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (516.47087pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Theexternaldirectproductofcyclicgroupsiscyclic:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 TheexternaldirectproductofD[]andD[]isisomorphictoD[]\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; B[] 
+ []
+
+
+Overfull \hbox (630.39453pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everynonzerofreeabeliangrouphasaninfinitenumberofbases:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyfreeabeliangroupofrankatleast\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 hasaninfinitenumberofbases:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (682.14168pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Foreverypositiveintegernthereisacyclicgroupofordern:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyfinitecyclicgroupcontainsanelementofeveryorderthatdividestheorderofthegroup:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (759.52267pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ifagrouphasanelementoforder\OT1/cmr/m/n/10 10\OML/cmm/m/it/10 ; thenithaselementsoforders\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; and\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ifagrouphasanelementoforder\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 andanelementoforder\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; thenithasanelementoforder\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (49.61388pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 LetAandBbesets; f \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 A\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 > Bandg \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 B\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 > Abefunctionssuchthatforalla\OMS/cmsy/m/n/10 n\OML/cmm/m/it/10 inA; g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 )) =
+ []
+
+
+Overfull \hbox (440.42711pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 a:Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thefunctiongmustnecessarilybeinjective:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Thefunctiongmustnecessarilybesurjective:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (776.55894pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ahomomorphismisonetooneifandonlyifthekernelconsistsoftheidentityelementalone:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Theimageofagroupof\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 elementsundersomehomomorphismmayhave\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 elements:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (617.73065pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfHandKaresubgroupsofagroupG; then\OMS/cmsy/m/n/10 j \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 jj\OML/cmm/m/it/10 =intersectionK\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 :Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Agroupoforder\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 pwherepisanoddprimeiscyclicorisomorphictoD[]:\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (44.96945pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ForT \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 ZxZ\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 > ZwhereT\OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 0) = 3\OML/cmm/m/it/10 andT\OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1) = \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 ; findT\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 19\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 10\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 19\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 10\OML/cmm/m/it/10 ; A[] 
+ []
+
+
+Overfull \hbox (488.2671pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everypermutationisaone \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 to \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 onefunction:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyfunctionisapermutationifandonlyifitisonetoone:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (649.53174pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ifafinitegrouphasordernthenthegroupcontainsasubgroupoforderdforeverypositivedivisordofn:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Ifabelongstoafinitegroupthen\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 divides\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 :; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (7.15834pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Whichofthefollowingstatementsistrue\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 ; Everyequivalencerelationisapartial \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (350.50232pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 orderingrelation:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 NumberofrelationsformA \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 x; y; z\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 toB \OT1/cmr/m/n/10 = (1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 ; is\OT1/cmr/m/n/10 64\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; Emptyrelation[]sreflexive; Propertiesofarelationbeingsymmetricandbeingun \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (493.07166pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 QisanextensionfieldofZ[]:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everynon \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 constantpolynomialoverafieldhasazeroinsomeextensionfield:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; D[] 
+ []
+
+
+Overfull \hbox (348.08928pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfHisasubgroupofGandabelongstoGthenaHisasubgroupofGifandonlyifaisinH:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 IfHisasubgroupofGandaandbbelongtoGthenaH \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (41.53362pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 bHifandonlyifabisinH:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (72.05235pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Findallzerosintheindicatedfinitefieldofthegivenpolynomialwithcoefficientsinthatfield:x[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (136.46245pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Findthenumberofelementsintheindicatedcyclicgroup \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 ThecyclicsubgroupofZ[]\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 generatedby\OT1/cmr/m/n/10 25\OML/cmm/m/it/10 :; \OT1/cmr/m/n/10 25\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 5\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 30\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Overfull \hbox (427.49533pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10 Statement\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everyidealinaringisasubringofthering:Statement\OT1/cmr/m/n/10 2\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 Everysubringofeveryringisanidealofthering:; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 True; False\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 False; True\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; C[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[1
+
+] [2] [3] (/Users/chunyuan/Documents/study/Research/Data2Instruction/talky/talky/raw_data/MMLU/test/.texpadtmp/abstract_algebra_test.aux) ) 
+Here is how much of TeX's memory you used:
+ 492 strings out of 476179
+ 10981 string characters out of 5809545
+ 386397 words of memory out of 5000000
+ 21316 multiletter control sequences out of 15000+600000
+ 469267 words of font info for 29 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 37i,5n,39p,18066b,107s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on /Users/chunyuan/Documents/study/Research/Data2Instruction/talky/talky/raw_data/MMLU/test/.texpadtmp/abstract_algebra_test.pdf (3 pages).

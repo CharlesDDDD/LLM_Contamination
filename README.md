@@ -39,3 +39,13 @@
  - We present a novel investigation protocol called Testset Slot Guessing (**TS-Guessing**), applicable to both open-source and proprietary LLMs. TS-Guessing involves **masking a wrong answer** in a multiple-choice question or an unlikely word in an evaluation example, and prompting the model to fill in the gap.
  - The results show that certain commercial LLMs can accurately guess the missing options in various test sets. In the MMLU benchmark, ChatGPT and GPT-4 demonstrated an exact match rate of 52% and 57%, respectively, in guessing the missing options. These findings underscore the need for more robust evaluation methodologies and benchmarks in the field.
 
+## 🤎Citation 
+```bibtex
+@misc{deng2024investigating,
+      title={Investigating Data Contamination in Modern Benchmarks for Large Language Models}, 
+      author={Chunyuan Deng and Yilun Zhao and Xiangru Tang and Mark Gerstein and Arman Cohan},
+      year={2024},
+      eprint={2311.09783},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}

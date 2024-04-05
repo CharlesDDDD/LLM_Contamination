@@ -26,21 +26,16 @@
 
 ## 🔥News
 
-- [2024/4/5] Our paper was accpeted at NAACL 2024 main conference! Working on clean our codes and make it public for the first version. 
+- [2024/4/5] Our paper was accpeted at NAACL 2024 main conference! Working on clean our codes and make it public for the first version (Stay tuned!) 
 
 - [2023/11/15] We release out preprint at arxiv! Feel free to check out preprint [here](https://arxiv.org/abs/2311.09783)
 
 ## 🪐Introooo
 
-![LLM-BLender](./docs/llm_blender.png)
-
-<details><summary>Abstract</summary> 
-
-- We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source large language models (LLMs). LLM-Blender cut the weaknesses through ranking and integrate the strengths through fusing generation to enhance the capability of LLMs.
+![DC](./logo/flowchart.png)
 
 
-- Our framework consists of two complementary modules: **PairRanker** and **GenFuser**, addressing the observation that optimal LLMs for different examples can significantly vary. **PairRanker** employs a specialized pairwise comparison method to distinguish subtle differences between candidate outputs. **GenFuser** aims to merge the top-ranked candidates from the aggregation of PairRanker's pairwise comparisons into an improved output by capitalizing on their strengths and mitigating their weaknesses.
-- To facilitate large-scale evaluation, we introduce a benchmark dataset, [**MixInstruct**](#data_release), which is a mixture of multiple instruction datasets featuring oracle pairwise comparisons for testing purposes. Our **LLM-Blender** significantly surpasses the best LLMs and baseline ensembling methods across various metrics on **MixInstruct**, establishing a substantial performance gap.
-
-</details>
+ - The paper introduces a retrieval-based system to explore potential overlaps between evaluation benchmarks and pretraining corpora. The system employs Pyserini with BM25 indexing to efficiently retrieve documents from large corpora like The Pile and C4.
+ - We present a novel investigation protocol called Testset Slot Guessing (**TS-Guessing**), applicable to both open-source and proprietary LLMs. TS-Guessing involves **masking a wrong answer** in a multiple-choice question or an unlikely word in an evaluation example, and prompting the model to fill in the gap.
+ - The results show that certain commercial LLMs can accurately guess the missing options in various test sets. In the MMLU benchmark, ChatGPT and GPT-4 demonstrated an exact match rate of 52% and 57%, respectively, in guessing the missing options. These findings underscore the need for more robust evaluation methodologies and benchmarks in the field.
 
